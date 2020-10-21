@@ -202,7 +202,7 @@
 	</div>
 
 	<script type="text/javascript"
-		src="//dapi.kakao.com/v2/maps/sdk.js?appkey=08ac5f210c21cf38bc0484639366ce74&libraries=services"></script>
+		src="//dapi.kakao.com/v2/maps/sdk.js?appkey=/*APPKEY 입력*/&libraries=services"></script>
 	<script>
 		// 마커를 담을 배열입니다
 		var markers = [];
