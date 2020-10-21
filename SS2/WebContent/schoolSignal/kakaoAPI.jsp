@@ -367,7 +367,7 @@ a:hover {
 
 
 	<script type="text/javascript"
-		src="//dapi.kakao.com/v2/maps/sdk.js?appkey=08ac5f210c21cf38bc0484639366ce74&libraries=services,clusterer"></script>
+		src="//dapi.kakao.com/v2/maps/sdk.js?appkey=/*APPKEY 입력*/&libraries=services,clusterer"></script>
 	<script>
 
 		var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
